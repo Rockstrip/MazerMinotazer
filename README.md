@@ -7,3 +7,6 @@ Infinity Maze
 <br>
 PostProcessing
 ![Alt Text](Docs/Post.png)
+<br>
+Gameplay
+![Alt Text](Docs/Gameplay.gif)
