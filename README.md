@@ -2,9 +2,11 @@
 ###### Game Developed with Unity(2020.3.13f1)
 
 Infinity Maze
-![Alt Text](Doc/Maze.gif)
-
-
+<br>
+![Alt Text](Docs/Maze.gif)
+<br>
 PostProcessing
-![Alt Text](Doc/Post.jpg)
-
+![Alt Text](Docs/Post.png)
+<br>
+Gameplay
+![Alt Text](Docs/Gameplay.gif)
