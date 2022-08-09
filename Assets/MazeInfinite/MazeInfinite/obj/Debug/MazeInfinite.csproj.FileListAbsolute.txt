@@ -1,0 +1,6 @@
+/home/serhiy/src/dotnet/MazeInfinite/MazeInfinite/bin/Debug/MazeInfinite.exe
+/home/serhiy/src/dotnet/MazeInfinite/MazeInfinite/bin/Debug/MazeInfinite.pdb
+/home/serhiy/src/dotnet/MazeInfinite/MazeInfinite/obj/Debug/MazeInfinite.csproj.AssemblyReference.cache
+/home/serhiy/src/dotnet/MazeInfinite/MazeInfinite/obj/Debug/MazeInfinite.csproj.CoreCompileInputs.cache
+/home/serhiy/src/dotnet/MazeInfinite/MazeInfinite/obj/Debug/MazeInfinite.exe
+/home/serhiy/src/dotnet/MazeInfinite/MazeInfinite/obj/Debug/MazeInfinite.pdb
