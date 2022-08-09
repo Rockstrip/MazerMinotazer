@@ -8,5 +8,7 @@ Infinity Maze
 PostProcessing
 ![Alt Text](Docs/Post.png)
 <br>
+<br>
+<br>
 Gameplay
 ![Alt Text](Docs/Gameplay.gif)
