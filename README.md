@@ -5,4 +5,4 @@ Infinity Maze
 ![Alt Text](Docs/Maze.gif)
 <br>
 PostProcessing
-![Alt Text](Docs/Post.jpg)
+![Alt Text](Docs/Post.png)
